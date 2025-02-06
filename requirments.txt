@@ -11,3 +11,5 @@ transformers
 spacy
 gensim
 preetytable
+imbalanced-learn==0.10.0
+joblib==1.1.0
